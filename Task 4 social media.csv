@@ -1,0 +1,23 @@
+tweet_id,tweet_text,sentiment,entity,timestamp,user_id,user_location,language
+1,"""I love the new features in the latest app update!""",Positive,app,01-01-2023 12:00,user123,"New York, USA",en
+2,"""The customer service was terrible.""",Negative,service,02-01-2023 15:30,user456,"London, UK",en
+3,"""Just another regular day.""",Neutral,day,03-01-2023 08:45,user789,"Sydney, AUS",en
+4,"""The new UI design is awesome!""",Positive,UI,04-01-2023 10:20,user321,"Toronto, CA",en
+5,"""I didn't like the recent update.""",Negative,update,05-01-2023 14:00,user654,"Berlin, DE",en
+6,"""Customer support was very helpful.""",Positive,support,06-01-2023 18:30,user987,"Tokyo, JP",en
+7,"""Had a great experience using the app today.""",Positive,app,07-01-2023 11:15,user135,"Paris, FR",en
+8,"""The app crashes frequently.""",Negative,app,08-01-2023 16:40,user246,"Madrid, ES",en
+9,"""Enjoying the new features in the app.""",Positive,features,09-01-2023 09:25,user357,"Rome, IT",en
+10,"""The loading time is too long.""",Negative,loading,10-01-2023 13:50,user468,"Amsterdam, NL",en
+11,"""New update looks good.""",Positive,update,11-01-2023 07:35,user579,"Beijing, CN",en
+12,"""I faced issues with the app installation.""",Negative,installation,12-01-2023 17:20,user680,"Moscow, RU",en
+13,"""The app is very user-friendly.""",Positive,app,13-01-2023 12:10,user791,"Mumbai, IN",en
+14,"""Didn't find any bugs so far, impressive!""",Positive,bugs,14-01-2023 15:00,user902,"Cape Town, ZA",en
+15,"""There is a bug in the payment module.""",Negative,payment,15-01-2023 19:45,user013,"Buenos Aires, AR",en
+16,"""I like the new color scheme.""",Positive,design,16-01-2023 10:30,user124,"Sao Paulo, BR",en
+17,"""The app takes too much space on my phone.""",Negative,storage,17-01-2023 14:55,user235,"Lagos, NG",en
+18,"""Smooth and fast performance, great job!""",Positive,performance,18-01-2023 11:00,user346,"Mexico City, MX",en
+19,"""Facing issues with login.""",Negative,login,19-01-2023 13:35,user457,"Jakarta, ID",en
+20,"""The app is quite intuitive.""",Positive,app,20-01-2023 16:25,user568,"Seoul, KR",en
+21,"""It took a while to understand the new layout.""",Neutral,layout,21-01-2023 09:10,user679,"Istanbul, TR",en
+22,"""I had an issue with the app but it was resolved quickly by support.""",Positive,support,22-01-2023 18:50,user790,"Nairobi, KE",en
